@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SEPUPUAN</string>
+    <string name="sepupuan">Selamat datang di SEPUPUAN</string>
+    <string name="nama">Nama</string>
+    <string name="alamat">Alamat</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="wisata">Wisata</string>
+    <string name="kuliner">Kuliner</string>
+    <string name="penginapan">Penginapan</string>
+    <string name="dtlwisata">Detail Wisata</string>
+    <string name="dtlkuliner">Detail Kuliner</string>
+    <string name="dtlpenginapan">Detail Penginapan</string>
+</resources>

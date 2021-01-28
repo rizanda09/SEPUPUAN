@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "857711251875",
+    "project_id": "fir-auth-6b11e",
+    "storage_bucket": "fir-auth-6b11e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857711251875:android:5f1c02cb4f08dc0dbb8a16",
+        "android_client_info": {
+          "package_name": "com.android.sepupuan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857711251875-h7ktq0nlel6vukb3o27i01h8dfq5dama.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAursowKGMPBgbhpzm-92PO4vNiVAjR0nY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857711251875-h7ktq0nlel6vukb3o27i01h8dfq5dama.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
